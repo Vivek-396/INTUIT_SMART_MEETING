@@ -1,0 +1,21 @@
+.homepage {
+  border: 1px solid rgb(57, 235, 57);
+  width: 500px;
+  margin: 40px auto;
+  padding: 16px;
+  position: relative;
+}
+
+.border-green {
+  border: 1px solid #000;
+}
+
+.meetingBtn {
+  background-color: rgb(9, 9, 138);
+  color: white;
+  font-weight: 700;
+  padding: 8px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
